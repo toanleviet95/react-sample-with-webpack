@@ -10,9 +10,9 @@
 </div>
 
 ### Tech
-- [Babel](babeljs) - Compiling JS
-- [Webpack](webpack) - Bundle and dev server
-- [Hot loader](react-hot-loader) - React Hot Loader
+- [Babel][babeljs] - Compiling JS
+- [Webpack][webpack] - Bundle and dev server
+- [Hot loader][react-hot-loader] - React Hot Loader
 
 [babeljs]: https://babeljs.io
 [webpack]: https://webpack.js.org
