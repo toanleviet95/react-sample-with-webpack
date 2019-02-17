@@ -1,7 +1,7 @@
 {
-  "name": "react-hooks-v16.8",
+  "name": "react-sample-with-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "React sample with webpack",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
