@@ -1,6 +1,6 @@
 # React sample code with Webpack
 [![Build Status][build-badge]][build]
-### This my React sample code for reusing in some my projects. Use webpack + babel 8-)
+### This is my React starter kit in some my projects. Use webpack + babel
 
 <div align="center">
   <img src="https://webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" width="10%" />
