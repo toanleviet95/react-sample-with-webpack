@@ -1,6 +1,5 @@
 # React sample code with Webpack
 [![Build Status][build-badge]][build]
-[![MIT License][license-badge]][license]
 ### This my React sample code for reusing in some my projects. Use webpack + babel presets :)
 
 <div align="center">
@@ -17,7 +16,5 @@
 [babeljs]: https://babeljs.io
 [webpack]: https://webpack.js.org
 [react-hot-loader]: https://github.com/gaearon/react-hot-loader
-[build-badge]: https://img.shields.io/travis/gaearon/react-hot-loader.svg?style=flat-square
-[build]: https://travis-ci.org/gaearon/react-hot-loader
-[license-badge]: https://img.shields.io/npm/l/react-hot-loader.svg?style=flat-square
-[license]: https://github.com/gaearon/react-hot-loader/blob/next/LICENSE
+[build-badge]: https://travis-ci.com/toanleviet95/react-sample-with-webpack.svg?branch=master
+[build]: https://travis-ci.com/toanleviet95/react-sample-with-webpack
