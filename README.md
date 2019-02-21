@@ -1,6 +1,6 @@
 # React sample code with Webpack
 [![Build Status][build-badge]][build]
-### This my React sample code for reusing in some my projects. Use webpack + babel presets :)
+### This my React sample code for reusing in some my projects. Use webpack + babel 8-)
 
 <div align="center">
   <img src="https://webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" width="10%" />
@@ -12,6 +12,23 @@
 - [Babel][babeljs] - Compiling JS
 - [Webpack][webpack] - Bundle and dev server
 - [Hot loader][react-hot-loader] - React Hot Loader
+
+### Command
+
+- Install
+```bash
+npm install // or yarn
+```
+
+- Start
+```bash
+npm start // or yarn start
+```
+
+- Build
+```bash
+npm run build // or yarn build
+```
 
 [babeljs]: https://babeljs.io
 [webpack]: https://webpack.js.org
