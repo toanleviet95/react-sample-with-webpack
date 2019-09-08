@@ -1,18 +1,18 @@
 # React sample code with Webpack
 [![Build Status][build-badge]][build]
-### This is my React starter kit in some my projects
+### This is my React starter kit in some projects
 
 <div align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:React-icon.svg#/media/File:React-icon.svg" width="10%" />
-  +
+  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="10%" />
+  &nbsp;
   <img src="https://webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" width="10%" />
-  +
+  &nbsp;
   <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" width="20%" />
-  +
+  &nbsp;
   <img src="https://eslint.org/assets/img/logo.svg" width="10%" />
-  +
-  <img src="https://github.com/stylelint/stylelint/tree/master/identity/stylelint-icon-black.svg" width="10%" />
-  +
+  &nbsp;
+  <img src="https://seeklogo.com/images/S/stylelint-logo-631B4EAA36-seeklogo.com.png" width="10%" />
+  &nbsp;
   <img src="https://travis-ci.com/images/logos/TravisCI-Mascot-1.png" width="10%" />
 </div>
 
