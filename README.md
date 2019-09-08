@@ -1,20 +1,31 @@
 # React sample code with Webpack
 [![Build Status][build-badge]][build]
-### This is my React starter kit in some my projects. Use webpack + babel
+### This is my React starter kit in some my projects
 
 <div align="center">
+  <img src="https://commons.wikimedia.org/wiki/File:React-icon.svg#/media/File:React-icon.svg" width="10%" />
+  +
   <img src="https://webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" width="10%" />
   +
   <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" width="20%" />
+  +
+  <img src="https://eslint.org/assets/img/logo.svg" width="10%" />
+  +
+  <img src="https://github.com/stylelint/stylelint/tree/master/identity/stylelint-icon-black.svg" width="10%" />
+  +
+  <img src="https://travis-ci.com/images/logos/TravisCI-Mascot-1.png" width="10%" />
 </div>
 
-### Tech
-- [Babel][babeljs] - Compiling JS
+### Tech Stack
+- [React][reactjs] - Library for building user interfaces
 - [Webpack][webpack] - Bundle and dev server
+- [Babel][babeljs] - Compiling JS
 - [Hot loader][react-hot-loader] - React Hot Loader
+- [ESlint][eslint] - The pluggable linting utility for JS and JSX
+- [Stylelint][stylelint] - Linter that helps you avoid errors and enforce conventions in your styles
+- [TravisCI][travis-ci] - Test and deploy
 
-### Command
-
+### How to run
 - Install
 ```bash
 npm install // or yarn
@@ -29,9 +40,12 @@ npm start // or yarn start
 ```bash
 npm run build // or yarn build
 ```
-
+[reactjs]: https://reactjs.org
 [babeljs]: https://babeljs.io
 [webpack]: https://webpack.js.org
 [react-hot-loader]: https://github.com/gaearon/react-hot-loader
 [build-badge]: https://travis-ci.com/toanleviet95/react-sample-with-webpack.svg?branch=master
+[eslint]: https://eslint.org
+[stylelint]: https://stylelint.io
+[travis-ci]: https://travis-ci.org
 [build]: https://travis-ci.com/toanleviet95/react-sample-with-webpack

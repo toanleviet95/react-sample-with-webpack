@@ -1,9 +1,18 @@
-import React, { PureComponent } from 'react';
+import React from 'react';
 
-class App extends PureComponent {
-    render() {
-        return <div>Hello React + Webpack</div>
-    }
-}
+const App = () => (
+  <div>
+    Tech Stack:
+    <ul>
+      <li>React</li>
+      <li>React Hot Loader</li>
+      <li>Babel</li>
+      <li>Webpack</li>
+      <li>ESlint</li>
+      <li>Stylelint</li>
+      <li>Travis CI</li>
+    </ul>
+  </div>
+);
 
 export default App;
