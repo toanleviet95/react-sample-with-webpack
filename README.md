@@ -17,7 +17,7 @@
 </div>
 
 ### Tech Stack
-- [React][reactjs] - Library for building user interfaces
+- [React][reactjs] - Library for building user interfaces (v17 - Should read CHANGELOG[reactjs@17])
 - [Webpack][webpack] - Bundle and dev server
 - [Babel][babeljs] - Compiling JS
 - [Hot loader][react-hot-loader] - React Hot Loader
@@ -41,6 +41,7 @@ npm start // or yarn start
 npm run build // or yarn build
 ```
 [reactjs]: https://reactjs.org
+[reactjs@17]: https://github.com/facebook/react/blob/master/CHANGELOG.md
 [babeljs]: https://babeljs.io
 [webpack]: https://webpack.js.org
 [react-hot-loader]: https://github.com/gaearon/react-hot-loader
