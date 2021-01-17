@@ -17,7 +17,7 @@
 </div>
 
 ### Tech Stack
-- [React][reactjs] - Library for building user interfaces (v17 - Should read CHANGELOG[reactjs@17])
+- [React][reactjs] - Library for building user interfaces (v17 - Should read [CHANGELOG][reactjs@17])
 - [Webpack][webpack] - Bundle and dev server
 - [Babel][babeljs] - Compiling JS
 - [Hot loader][react-hot-loader] - React Hot Loader
